@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
+  <h3>Nessrine Macherki</h3>
   <br/>
 
   <h3><b>Hello Microverse</b></h3>
