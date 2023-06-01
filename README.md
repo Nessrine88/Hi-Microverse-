@@ -126,7 +126,6 @@ Feel free to check the [issues page](https://github.com/Nessrine88/Hi-Microverse
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project just give it a star ⭐️
 
@@ -135,7 +134,7 @@ If you like this project just give it a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank Microverse
 
